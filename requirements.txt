@@ -1,0 +1,38 @@
+# Dependências principais do LangChain e OpenAI
+langchain>=0.1.0
+openai>=1.0.0
+langchain-openai>=0.0.2
+langchain-community>=0.0.10
+langchainhub>=0.1.13
+pydantic>=2.0.0
+
+# Dependências para processamento de dados e visualização
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Dependências para armazenamento e recuperação de vetores
+faiss-cpu>=1.7.4
+chromadb>=0.4.10
+tiktoken>=0.5.0
+
+# Dependências para processamento de documentos
+pypdf>=3.15.0
+
+# Dependências para buscas externas
+wikipedia>=1.4.0
+
+# Dependências para configuração e ambiente
+python-dotenv>=1.0.0
+
+# Dependências para Microsoft Teams
+azure-identity>=1.13.0
+msgraph-core>=0.2.2
+msgraph-sdk>=1.0.0
+
+# Dependências para integrações com Google
+requests>=2.31.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.100.0
